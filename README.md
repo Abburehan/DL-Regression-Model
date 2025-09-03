@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name: SYED ABBU REHAN
 
-### Register Number:
+### Register Number: 212223240165
 
 ```python
 import torch
