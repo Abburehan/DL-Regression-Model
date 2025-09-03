@@ -145,9 +145,10 @@ plt.show()
 <img width="1486" height="572" alt="image" src="https://github.com/user-attachments/assets/11bce75f-bd02-40e2-b596-57b7d3dfbdb5" />
 
 ### OUTPUT
-## Training Loss Vs Iteration Plot
-<img width="1487" height="718" alt="image" src="https://github.com/user-attachments/assets/0a082249-07e5-4f27-8ed5-3627392439cf" />
-## Best Fit line plot
+Training Loss Vs Iteration Plot
+<img width="1486" height="564" alt="image" src="https://github.com/user-attachments/assets/cb40f707-aa80-486c-a3c0-eda31129ad90" />
+
+Best Fit line plot
 <img width="1485" height="567" alt="image" src="https://github.com/user-attachments/assets/1460ba56-9b2e-4a12-96b8-81ed6bc09e43" />
 
 ### New Sample Data Prediction
